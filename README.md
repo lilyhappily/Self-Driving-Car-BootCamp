@@ -6,7 +6,16 @@
 
 完整视频：<https://www.youtube.com/watch?v=wGQy6vhSQLg>
 
-![result dispaly](assets/result dispaly.gif)
+<table style="width:100%">
+    <tr>
+      <th>
+        <p align="center">
+         <img src="./assets/result dispaly.gif" alt="Overview" width="100%">
+        </p>
+      </th>
+      <th>
+<table>
+    
 
 ## Overview
 
