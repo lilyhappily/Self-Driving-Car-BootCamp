@@ -91,7 +91,7 @@
 
 ## Traffic Lights Model
 
-- 采集实测场地红绿灯数据，对数据进行打标签，[在Tensorflow API的基础上采用`ssd_inception_v2_coco`进行模型的训练]()。模型训练后进行实际场地的测试时发现，模型很不稳定，分析原因发现，在不同的时间段绿灯的颜色显示不一样，有黄色、白色、绿色等，数据的多样性非常重要，所以在模型的训练过程中加入数据增强的方法，使模型的泛化能力更强。下图显示了不同时刻，光照不同的情况下绿灯的状态：
+- 采集实测场地红绿灯数据，对数据进行打标签，[在Tensorflow API的基础上采用`ssd_inception_v2_coco`进行模型的训练](https://github.com/lilyhappily/PIX-Udacity-Tier-IV-Self-Driving-Car-BootCamp/blob/master/PIX-Self-Driving-Engineering-Base-master/tensorflow_api.md)。模型训练后进行实际场地的测试时发现，模型很不稳定，分析原因发现，在不同的时间段绿灯的颜色显示不一样，有黄色、白色、绿色等，数据的多样性非常重要，所以在模型的训练过程中加入数据增强的方法，使模型的泛化能力更强。下图显示了不同时刻，光照不同的情况下绿灯的状态：
 
 <table style="width:100%">
   <tr>
