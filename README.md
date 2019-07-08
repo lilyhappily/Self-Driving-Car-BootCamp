@@ -159,7 +159,7 @@ data_augmentation_options {
   }
 ```
 
-- 在数据增强中可以选择自己合适的参数，此参数会覆盖在`preprocessor.py`源代码中有相应的数据增强的具体参数：
+- 在数据增强中可以选择自己合适的参数，此参数会覆盖在[`preprocessor.py`](https://github.com/tensorflow/models/blob/master/research/object_detection/core/preprocessor.py)源代码中有相应的数据增强的具体参数：
 
 ```python
 def random_adjust_brightness(image,
