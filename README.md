@@ -29,19 +29,19 @@
 
 - Auto ware学习内容：
 
-  **Chapter 1： Basic Operations of Autoware **
+  [**Chapter 1： Basic Operations of Autoware**](https://github.com/lilyhappily/PIX-Udacity-Tier-IV-Self-Driving-Car-BootCamp/blob/master/PIX-Self-Driving-Engineering-Base-master/handouts-DAY2.pdf)
 
   ![3](assets/3-1562510282835.png)
 
   
 
-  **Chapter 2：Data Recording/Playing and Sensor Calibration** 
+  [**Chapter 2：Data Recording/Playing and Sensor Calibration** ](https://github.com/lilyhappily/PIX-Udacity-Tier-IV-Self-Driving-Car-BootCamp/blob/master/PIX-Self-Driving-Engineering-Base-master/handouts-DAY2.pdf)
 
   ![4](assets/4.png)
 
   
 
-  **Chapter 3：3D Map Generation and Localization **
+  [**Chapter 3：3D Map Generation and Localization **](https://github.com/lilyhappily/PIX-Udacity-Tier-IV-Self-Driving-Car-BootCamp/blob/master/PIX-Self-Driving-Engineering-Base-master/handouts-DAY2.pdf)
 
   <table style="width:100%">
     <tr>
