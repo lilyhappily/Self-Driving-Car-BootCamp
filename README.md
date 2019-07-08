@@ -6,7 +6,7 @@
 
 完整视频：<https://www.youtube.com/watch?v=wGQy6vhSQLg>
 
-![result dispaly](assets/result dispaly.gif)
+![result dispaly](./assets/result dispaly.gif)
 
 ## Overview
 
