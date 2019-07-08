@@ -21,7 +21,7 @@
 
 ##  Autoware
 
-- [Autoware 安装](https://github.com/lilyhappily/PIX-Self-Driving-Engineering-Base/blob/master/autoware_install.md)
+- [Autoware 安装](https://github.com/lilyhappily/PIX-Udacity-Tier-IV-Self-Driving-Car-BootCamp/blob/master/PIX-Self-Driving-Engineering-Base-master/autoware_install.md)
 
 - Autoware框架
 
