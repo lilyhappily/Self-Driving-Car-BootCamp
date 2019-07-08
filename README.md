@@ -6,7 +6,7 @@
 
 完整视频：<https://www.youtube.com/watch?v=wGQy6vhSQLg>
 
-![image](https://github.com/lilyhappily/PIX-Udacity-Tier-IV-Self-Driving-Car-BootCamp/blob/master/assets/result%20dispaly.gif)
+<div align=center><img src="./assets/result dispaly.gif" width = "700" height = "400" alt="result dispaly.gif" align=center /></div>
 
 ## Overview
 
