@@ -182,19 +182,19 @@ def random_adjust_contrast(image,
 
   在最终的实际场地测试中，模型可以很准确的识别红灯，由于绿灯的数据多样性原因，绿灯识别不是特别灵敏，但是可以完全满足红绿灯时刻的启停问题；
 
-## Map Generation and Localization
+## [Map Generation and Localization](https://github.com/lilyhappily/PIX-Udacity-Tier-IV-Self-Driving-Car-BootCamp/blob/master/PIX-Self-Driving-Engineering-Base-master/Autoware_manual_chinese_pix.pdf)
 
 启动Velodyne-16激光雷达，采集实测场地BAG点云数据，生成PCD地图， 加载激光雷达传感器和PCD实测场地地图，进行真车的定位：
 
 ![15](assets/15.png)
 
-## Path Following
+## [Path Following](https://github.com/lilyhappily/PIX-Udacity-Tier-IV-Self-Driving-Car-BootCamp/blob/master/PIX-Self-Driving-Engineering-Base-master/Autoware_manual_chinese_pix.pdf)
 
 成功定位后，加载路径，实现路径跟随：
 
 ![16](assets/16.png)
 
-## Vehicle Control
+## [Vehicle Control](https://github.com/lilyhappily/PIX-Udacity-Tier-IV-Self-Driving-Car-BootCamp/blob/master/PIX-Self-Driving-Engineering-Base-master/Autoware_manual_chinese_pix.pdf)
 
 修改tl_detenctor.py节点，结合训练好的红绿灯模型，实现车辆的红绿灯启停功能。在实际测试过程中发现，红绿灯模型可以非常稳定的识别红灯，由于绿灯数据的多样性，识别不是特别稳定，但是不会出现把绿灯识别为红灯的严重错误行为，所以能够比较正确的实现真车红绿灯的启停。
 
