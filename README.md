@@ -36,10 +36,9 @@
   
   [**Chapter 2：Data Recording/Playing and Sensor Calibration** ](https://github.com/lilyhappily/PIX-Udacity-Tier-IV-Self-Driving-Car-BootCamp/blob/master/PIX-Self-Driving-Engineering-Base-master/handouts-DAY2.pdf)
 
-  ![4](assets/4.png)
+  <img src="./assets/4.png" width = "600" height = "400" alt="4.png" align=center />
 
   
-
   [**Chapter 3：3D Map Generation and Localization**](https://github.com/lilyhappily/PIX-Udacity-Tier-IV-Self-Driving-Car-BootCamp/blob/master/PIX-Self-Driving-Engineering-Base-master/handouts-DAY2.pdf)
 
   <table style="width:100%">
@@ -80,13 +79,13 @@
 
   [**Chapter 5：Path Generation and Path Planning**](https://github.com/lilyhappily/PIX-Udacity-Tier-IV-Self-Driving-Car-BootCamp/blob/master/PIX-Self-Driving-Engineering-Base-master/handouts--DAY3.pdf)
 
-  ![9](assets/9.png)
+<img src="./assets/9.png" width = "600" height = "400" alt="9.png" align=center />
 
   
 
   [**Chapter 6：Path Following and Vehicle Control**](https://github.com/lilyhappily/PIX-Udacity-Tier-IV-Self-Driving-Car-BootCamp/blob/master/PIX-Self-Driving-Engineering-Base-master/handouts--DAY3.pdf)
 
-  ![10](assets/10.png)
+  <img src="./assets/10.png" width = "600" height = "400" alt="10.png" align=center />
 
   
 
