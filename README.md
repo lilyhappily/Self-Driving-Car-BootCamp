@@ -41,7 +41,7 @@
 
   
 
-  [**Chapter 3：3D Map Generation and Localization **](https://github.com/lilyhappily/PIX-Udacity-Tier-IV-Self-Driving-Car-BootCamp/blob/master/PIX-Self-Driving-Engineering-Base-master/handouts-DAY2.pdf)
+  [**Chapter 3：3D Map Generation and Localization**](https://github.com/lilyhappily/PIX-Udacity-Tier-IV-Self-Driving-Car-BootCamp/blob/master/PIX-Self-Driving-Engineering-Base-master/handouts-DAY2.pdf)
 
   <table style="width:100%">
     <tr>
@@ -60,7 +60,7 @@
 
   
 
-  **Chapter 4：Object Detection and Tracking **
+  [**Chapter 4：Object Detection and Tracking**](https://github.com/lilyhappily/PIX-Udacity-Tier-IV-Self-Driving-Car-BootCamp/blob/master/PIX-Self-Driving-Engineering-Base-master/handouts--DAY3.pdf)
 
   <table style="width:100%">
     <tr>
@@ -79,13 +79,13 @@
 
   
 
-  **Chapter 5：Path Generation and Path Planning **
+  [**Chapter 5：Path Generation and Path Planning**](https://github.com/lilyhappily/PIX-Udacity-Tier-IV-Self-Driving-Car-BootCamp/blob/master/PIX-Self-Driving-Engineering-Base-master/handouts--DAY3.pdf)
 
   ![9](assets/9.png)
 
   
 
-  **Chapter 6：Path Following and Vehicle Control**
+  [**Chapter 6：Path Following and Vehicle Control**](https://github.com/lilyhappily/PIX-Udacity-Tier-IV-Self-Driving-Car-BootCamp/blob/master/PIX-Self-Driving-Engineering-Base-master/handouts--DAY3.pdf)
 
   ![10](assets/10.png)
 
