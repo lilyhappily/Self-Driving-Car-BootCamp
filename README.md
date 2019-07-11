@@ -28,12 +28,13 @@
   ![2](assets/2.png)
 
 - Auto ware学习内容：
-[**Chapter 1： Basic Operations of Autoware**](https://github.com/lilyhappily/PIX-Udacity-Tier-IV-Self-Driving-Car-BootCamp/blob/master/PIX-Self-Driving-Engineering-Base-master/handouts-DAY2.pdf)
-[**Chapter 2：Data Recording/Playing and Sensor Calibration** ](https://github.com/lilyhappily/PIX-Udacity-Tier-IV-Self-Driving-Car-BootCamp/blob/master/PIX-Self-Driving-Engineering-Base-master/handouts-DAY2.pdf)
-[**Chapter 3：3D Map Generation and Localization**](https://github.com/lilyhappily/PIX-Udacity-Tier-IV-Self-Driving-Car-BootCamp/blob/master/PIX-Self-Driving-Engineering-Base-master/handouts-DAY2.pdf)
-[**Chapter 4：Object Detection and Tracking**](https://github.com/lilyhappily/PIX-Udacity-Tier-IV-Self-Driving-Car-BootCamp/blob/master/PIX-Self-Driving-Engineering-Base-master/handouts--DAY3.pdf)
-[**Chapter 5：Path Generation and Path Planning**](https://github.com/lilyhappily/PIX-Udacity-Tier-IV-Self-Driving-Car-BootCamp/blob/master/PIX-Self-Driving-Engineering-Base-master/handouts--DAY3.pdf)
-[**Chapter 6：Path Following and Vehicle Control**](https://github.com/lilyhappily/PIX-Udacity-Tier-IV-Self-Driving-Car-BootCamp/blob/master/PIX-Self-Driving-Engineering-Base-master/handouts--DAY3.pdf)
+
+  [**Chapter 1： Basic Operations of Autoware**](https://github.com/lilyhappily/PIX-Udacity-Tier-IV-Self-Driving-Car-BootCamp/blob/master/PIX-Self-Driving-Engineering-Base-master/handouts-DAY2.pdf)
+  [**Chapter 2：Data Recording/Playing and Sensor Calibration** ](https://github.com/lilyhappily/PIX-Udacity-Tier-IV-Self-Driving-Car-BootCamp/blob/master/PIX-Self-Driving-Engineering-Base-master/handouts-DAY2.pdf)
+  [**Chapter 3：3D Map Generation and Localization**](https://github.com/lilyhappily/PIX-Udacity-Tier-IV-Self-Driving-Car-BootCamp/blob/master/PIX-Self-Driving-Engineering-Base-master/handouts-DAY2.pdf)
+  [**Chapter 4：Object Detection and Tracking**](https://github.com/lilyhappily/PIX-Udacity-Tier-IV-Self-Driving-Car-BootCamp/blob/master/PIX-Self-Driving-Engineering-Base-master/handouts--DAY3.pdf)
+  [**Chapter 5：Path Generation and Path Planning**](https://github.com/lilyhappily/PIX-Udacity-Tier-IV-Self-Driving-Car-BootCamp/blob/master/PIX-Self-Driving-Engineering-Base-master/handouts--DAY3.pdf)
+  [**Chapter 6：Path Following and Vehicle Control**](https://github.com/lilyhappily/PIX-Udacity-Tier-IV-Self-Driving-Car-BootCamp/blob/master/PIX-Self-Driving-Engineering-Base-master/handouts--DAY3.pdf)
 
 
 [**Chapter 1： Basic Operations of Autoware**](https://github.com/lilyhappily/PIX-Udacity-Tier-IV-Self-Driving-Car-BootCamp/blob/master/PIX-Self-Driving-Engineering-Base-master/handouts-DAY2.pdf)
